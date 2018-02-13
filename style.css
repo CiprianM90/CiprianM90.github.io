@@ -1,0 +1,42 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+header {
+	background-image: url("Ql7YSZm.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+}
+
+header hr {
+	margin-top: 200px;
+	margin-bottom: 30px;
+}
+
+h1:hover {
+	color: black;	
+}
+
+.faded {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.btn {
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: black;
+	border-radius: 200px;
+	border-color: black;
+}
+
+.btn-primary:hover {
+	background-color: red;
+	border-color: red;	
+}
+
